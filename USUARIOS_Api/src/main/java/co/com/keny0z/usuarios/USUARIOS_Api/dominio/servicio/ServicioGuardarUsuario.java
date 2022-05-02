@@ -2,7 +2,7 @@ package co.com.keny0z.usuarios.USUARIOS_Api.dominio.servicio;
 
 import co.com.keny0z.usuarios.USUARIOS_Api.dominio.excepcion.ExcepcionUsuarioRepetido;
 import co.com.keny0z.usuarios.USUARIOS_Api.dominio.modelo.Usuario;
-import co.com.keny0z.usuarios.USUARIOS_Api.dominio.puerto.RepositorioUsuario;
+import co.com.keny0z.usuarios.USUARIOS_Api.dominio.puerto.repositorio.RepositorioUsuario;
 import org.springframework.stereotype.Service;
 
 @Service

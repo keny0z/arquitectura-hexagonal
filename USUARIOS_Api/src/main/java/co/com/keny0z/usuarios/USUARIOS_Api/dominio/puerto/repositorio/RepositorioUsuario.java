@@ -1,4 +1,4 @@
-package co.com.keny0z.usuarios.USUARIOS_Api.dominio.puerto;
+package co.com.keny0z.usuarios.USUARIOS_Api.dominio.puerto.repositorio;
 
 import co.com.keny0z.usuarios.USUARIOS_Api.dominio.dto.DtoUsuario;
 import co.com.keny0z.usuarios.USUARIOS_Api.dominio.modelo.Usuario;
