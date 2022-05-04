@@ -3,7 +3,6 @@ package co.com.keny0z.usuarios.USUARIOS_Api.infraestructura.controlador;
 import co.com.keny0z.usuarios.USUARIOS_Api.aplicacion.servicio.ServicioAplicacionGuardarUsuario;
 import co.com.keny0z.usuarios.USUARIOS_Api.aplicacion.servicio.ServicioAplicacionListarUsuarios;
 import co.com.keny0z.usuarios.USUARIOS_Api.dominio.dto.DtoUsuario;
-import co.com.keny0z.usuarios.USUARIOS_Api.dominio.servicio.ServicioGuardarUsuario;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
